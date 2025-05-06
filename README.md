@@ -1,6 +1,12 @@
 # Fundamentals of Software Architecture
 
 
+- TODO: Add programming languages badges
+- TODO: Add table of contents
+
+
+
+
 - [Mohamad Khalil](https://github.com/Chef03), [Joel Mattsson](https://github.com/mrjex) and Jackson Niyomugabo
 
 - Course: `August - October 2023`
@@ -21,3 +27,26 @@ A4 consists of three separate types of systems. One system is constructed in a P
 [Module 3](microservices/README.md) is an application storing customer data as a collection of orders, written in Java. It consists of a command-line based user interface, and MySQL database back-end. This module is designed around the **microservices architectural style**, made possible using Java's Remote Method Invocation (RMI).
 
 In the course of the assignment you will be asked to modify the systems by adding/improving features, analyze which system better supported the required modifications and analyze the relative tradeoffs between the different architectures. Please read the steps in each of the modules' README files for specific installation and setup procedures.
+
+
+
+## Demos
+
+
+### Pipe And Filter (C++)
+
+
+![pipe-and-filter-video](demos/pipe-and-filter.mp4)
+
+
+
+### Web Services (Javascript)
+
+![webservices-video](demos/webservices.mp4)
+
+
+
+### Microservices (Java)
+
+
+![microservices-video](demos/microservices.mp4)
